@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/S08L01 - Remember me/pom.xml" />
+        <option value="$PROJECT_DIR$/S01L02 - SpringStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L11 - Section wrapup/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L04 - Adding login form/pom.xml" />
+        <option value="$PROJECT_DIR$/S11L01 - Spring Boot logging/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L02 - Update the seed data/pom.xml" />
+        <option value="$PROJECT_DIR$/S03L02 - Adding model Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L02 - Add forgot password view/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L10 - Add Roles to User Account/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L06 - Email Service Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S01L03 - Spring MVC Starter project/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L03 - Adding register account form/pom.xml" />
+        <option value="$PROJECT_DIR$/S03L01 - Integrating H2 local database/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L02 - Adding templete to Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L03 - View a post with owner options/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L06 - Handle add post in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L07 - Password change in Spring boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L01 - Update homepage, for post links/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L08 - Handle edit post in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S03L04 - Adding seed data in the database/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L04 - Sending email for password reset/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L07 - Add edit post form in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S10L01 - Spring Boot Rest API introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/S06L03 - Finalizing application validations/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L04 - Add post in Spring Boot application/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L01 - Adding Account models in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L12 - Add users with Roles and Authorities/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L02 - GetPost from Spring Boot Application/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L10 - Add warning model for Delete operation/pom.xml" />
+        <option value="$PROJECT_DIR$/S03L05 - Displaying data on webpage, Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L08 - Reset password Spring Boot done - Wrap up/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L08 - Update the Webtemplate with Thymeleaf tags/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L03 - Handle reset password and token generation/pom.xml" />
+        <option value="$PROJECT_DIR$/S08L05 - Sending email for password reset continues/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L04 - Finalizing the template for the application/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L05 - Adding Spring security into the application/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L09 - Delete post in Spring Boot Blog application/pom.xml" />
+        <option value="$PROJECT_DIR$/S07L01 - Adding Profile Page on the Blog Application/pom.xml" />
+        <option value="$PROJECT_DIR$/S05L05 - Add WYSIWYG text Editor in the Add post page/pom.xml" />
+        <option value="$PROJECT_DIR$/S07L03 - Update Profile Photo on the Spring Boot Blog/pom.xml" />
+        <option value="$PROJECT_DIR$/S06L02 - Adding validations in register Form continues/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L03 - Adding Fragments, header, footers to web pages/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L11 - Add Authorities to User Account in Spring boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L13 - Add users with Roles and Authorities continues/pom.xml" />
+        <option value="$PROJECT_DIR$/S07L02 - Update Profile (Account) on the Spring Boot Blog/pom.xml" />
+        <option value="$PROJECT_DIR$/S09L01 - Adding Pagination and Sorting option on homepage/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L07 - Spring security login, overide loadUserByUsername/pom.xml" />
+        <option value="$PROJECT_DIR$/S12L01 - Spring Boot 2.7.x to Spring boot 3.x.x migrations/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites - Copy/pom.xml" />
+        <option value="$PROJECT_DIR$/S06L01 - Adding validations in register Form in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S03L03 - Adding repository and service classes in Spring Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/S09L02 - Pagination and Sorting in Spring boot - Section wrapup/pom.xml" />
+        <option value="$PROJECT_DIR$/S04L06 - Spring security login, adding rules and Bcruptpasswords/pom.xml" />
+        <option value="$PROJECT_DIR$/S12L02 - Spring Boot 2.7.x to Spring boot 3.x.x migrations continues/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="20" project-jdk-type="JavaSDK" />
+</project>

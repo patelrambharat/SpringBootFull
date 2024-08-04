@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/All+Project+files+of+Spring+Boot(Part+01).iml" filepath="$PROJECT_DIR$/.idea/All+Project+files+of+Spring+Boot(Part+01).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L01 - Remember me/SpringStarter.iml" filepath="$PROJECT_DIR$/S08L01 - Remember me/SpringStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S01L02 - SpringStarter/SpringStarter (1).iml" filepath="$PROJECT_DIR$/S01L02 - SpringStarter/SpringStarter (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S01L03 - Spring MVC Starter project/SpringStarter (10).iml" filepath="$PROJECT_DIR$/S01L03 - Spring MVC Starter project/SpringStarter (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L03 - Adding register account form/SpringStarter (11).iml" filepath="$PROJECT_DIR$/S04L03 - Adding register account form/SpringStarter (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S03L01 - Integrating H2 local database/SpringStarter (12).iml" filepath="$PROJECT_DIR$/S03L01 - Integrating H2 local database/SpringStarter (12).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S02L02 - Adding templete to Spring Boot/SpringStarter (13).iml" filepath="$PROJECT_DIR$/S02L02 - Adding templete to Spring Boot/SpringStarter (13).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L03 - View a post with owner options/SpringStarter (14).iml" filepath="$PROJECT_DIR$/S05L03 - View a post with owner options/SpringStarter (14).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L06 - Handle add post in Spring Boot/SpringStarter (15).iml" filepath="$PROJECT_DIR$/S05L06 - Handle add post in Spring Boot/SpringStarter (15).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L07 - Password change in Spring boot/SpringStarter (16).iml" filepath="$PROJECT_DIR$/S08L07 - Password change in Spring boot/SpringStarter (16).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L01 - Update homepage, for post links/SpringStarter (17).iml" filepath="$PROJECT_DIR$/S05L01 - Update homepage, for post links/SpringStarter (17).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L08 - Handle edit post in Spring Boot/SpringStarter (18).iml" filepath="$PROJECT_DIR$/S05L08 - Handle edit post in Spring Boot/SpringStarter (18).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S03L04 - Adding seed data in the database/SpringStarter (19).iml" filepath="$PROJECT_DIR$/S03L04 - Adding seed data in the database/SpringStarter (19).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L11 - Section wrapup/SpringStarter (2).iml" filepath="$PROJECT_DIR$/S05L11 - Section wrapup/SpringStarter (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L04 - Sending email for password reset/SpringStarter (20).iml" filepath="$PROJECT_DIR$/S08L04 - Sending email for password reset/SpringStarter (20).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L07 - Add edit post form in Spring Boot/SpringStarter (21).iml" filepath="$PROJECT_DIR$/S05L07 - Add edit post form in Spring Boot/SpringStarter (21).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S10L01 - Spring Boot Rest API introduction/SpringStarter (22).iml" filepath="$PROJECT_DIR$/S10L01 - Spring Boot Rest API introduction/SpringStarter (22).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S06L03 - Finalizing application validations/SpringStarter (23).iml" filepath="$PROJECT_DIR$/S06L03 - Finalizing application validations/SpringStarter (23).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L04 - Add post in Spring Boot application/SpringStarter (24).iml" filepath="$PROJECT_DIR$/S05L04 - Add post in Spring Boot application/SpringStarter (24).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L01 - Adding Account models in Spring Boot/SpringStarter (25).iml" filepath="$PROJECT_DIR$/S04L01 - Adding Account models in Spring Boot/SpringStarter (25).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L12 - Add users with Roles and Authorities/SpringStarter (26).iml" filepath="$PROJECT_DIR$/S04L12 - Add users with Roles and Authorities/SpringStarter (26).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L02 - GetPost from Spring Boot Application/SpringStarter (27).iml" filepath="$PROJECT_DIR$/S05L02 - GetPost from Spring Boot Application/SpringStarter (27).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L10 - Add warning model for Delete operation/SpringStarter (28).iml" filepath="$PROJECT_DIR$/S05L10 - Add warning model for Delete operation/SpringStarter (28).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S03L05 - Displaying data on webpage, Spring Boot/SpringStarter (29).iml" filepath="$PROJECT_DIR$/S03L05 - Displaying data on webpage, Spring Boot/SpringStarter (29).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L04 - Adding login form/SpringStarter (3).iml" filepath="$PROJECT_DIR$/S04L04 - Adding login form/SpringStarter (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L08 - Reset password Spring Boot done - Wrap up/SpringStarter (30).iml" filepath="$PROJECT_DIR$/S08L08 - Reset password Spring Boot done - Wrap up/SpringStarter (30).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L08 - Update the Webtemplate with Thymeleaf tags/SpringStarter (31).iml" filepath="$PROJECT_DIR$/S04L08 - Update the Webtemplate with Thymeleaf tags/SpringStarter (31).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L03 - Handle reset password and token generation/SpringStarter (32).iml" filepath="$PROJECT_DIR$/S08L03 - Handle reset password and token generation/SpringStarter (32).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L05 - Sending email for password reset continues/SpringStarter (33).iml" filepath="$PROJECT_DIR$/S08L05 - Sending email for password reset continues/SpringStarter (33).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S02L04 - Finalizing the template for the application/SpringStarter (34).iml" filepath="$PROJECT_DIR$/S02L04 - Finalizing the template for the application/SpringStarter (34).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L05 - Adding Spring security into the application/SpringStarter (35).iml" filepath="$PROJECT_DIR$/S04L05 - Adding Spring security into the application/SpringStarter (35).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites/SpringStarter (36).iml" filepath="$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites/SpringStarter (36).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L09 - Delete post in Spring Boot Blog application/SpringStarter (37).iml" filepath="$PROJECT_DIR$/S05L09 - Delete post in Spring Boot Blog application/SpringStarter (37).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S07L01 - Adding Profile Page on the Blog Application/SpringStarter (38).iml" filepath="$PROJECT_DIR$/S07L01 - Adding Profile Page on the Blog Application/SpringStarter (38).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S05L05 - Add WYSIWYG text Editor in the Add post page/SpringStarter (39).iml" filepath="$PROJECT_DIR$/S05L05 - Add WYSIWYG text Editor in the Add post page/SpringStarter (39).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S11L01 - Spring Boot logging/SpringStarter (4).iml" filepath="$PROJECT_DIR$/S11L01 - Spring Boot logging/SpringStarter (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S07L03 - Update Profile Photo on the Spring Boot Blog/SpringStarter (40).iml" filepath="$PROJECT_DIR$/S07L03 - Update Profile Photo on the Spring Boot Blog/SpringStarter (40).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S06L02 - Adding validations in register Form continues/SpringStarter (41).iml" filepath="$PROJECT_DIR$/S06L02 - Adding validations in register Form continues/SpringStarter (41).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S02L03 - Adding Fragments, header, footers to web pages/SpringStarter (42).iml" filepath="$PROJECT_DIR$/S02L03 - Adding Fragments, header, footers to web pages/SpringStarter (42).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L11 - Add Authorities to User Account in Spring boot/SpringStarter (43).iml" filepath="$PROJECT_DIR$/S04L11 - Add Authorities to User Account in Spring boot/SpringStarter (43).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L13 - Add users with Roles and Authorities continues/SpringStarter (44).iml" filepath="$PROJECT_DIR$/S04L13 - Add users with Roles and Authorities continues/SpringStarter (44).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S07L02 - Update Profile (Account) on the Spring Boot Blog/SpringStarter (45).iml" filepath="$PROJECT_DIR$/S07L02 - Update Profile (Account) on the Spring Boot Blog/SpringStarter (45).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S09L01 - Adding Pagination and Sorting option on homepage/SpringStarter (46).iml" filepath="$PROJECT_DIR$/S09L01 - Adding Pagination and Sorting option on homepage/SpringStarter (46).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L07 - Spring security login, overide loadUserByUsername/SpringStarter (47).iml" filepath="$PROJECT_DIR$/S04L07 - Spring security login, overide loadUserByUsername/SpringStarter (47).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S12L01 - Spring Boot 2.7.x to Spring boot 3.x.x migrations/SpringStarter (48).iml" filepath="$PROJECT_DIR$/S12L01 - Spring Boot 2.7.x to Spring boot 3.x.x migrations/SpringStarter (48).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites - Copy/SpringStarter (49).iml" filepath="$PROJECT_DIR$/S04L14 - Add security rules for Roles and Authorites - Copy/SpringStarter (49).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L02 - Update the seed data/SpringStarter (5).iml" filepath="$PROJECT_DIR$/S04L02 - Update the seed data/SpringStarter (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S06L01 - Adding validations in register Form in Spring Boot/SpringStarter (50).iml" filepath="$PROJECT_DIR$/S06L01 - Adding validations in register Form in Spring Boot/SpringStarter (50).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S03L03 - Adding repository and service classes in Spring Boot/SpringStarter (51).iml" filepath="$PROJECT_DIR$/S03L03 - Adding repository and service classes in Spring Boot/SpringStarter (51).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S09L02 - Pagination and Sorting in Spring boot - Section wrapup/SpringStarter (52).iml" filepath="$PROJECT_DIR$/S09L02 - Pagination and Sorting in Spring boot - Section wrapup/SpringStarter (52).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L06 - Spring security login, adding rules and Bcruptpasswords/SpringStarter (53).iml" filepath="$PROJECT_DIR$/S04L06 - Spring security login, adding rules and Bcruptpasswords/SpringStarter (53).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S12L02 - Spring Boot 2.7.x to Spring boot 3.x.x migrations continues/SpringStarter (54).iml" filepath="$PROJECT_DIR$/S12L02 - Spring Boot 2.7.x to Spring boot 3.x.x migrations continues/SpringStarter (54).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S03L02 - Adding model Spring Boot/SpringStarter (6).iml" filepath="$PROJECT_DIR$/S03L02 - Adding model Spring Boot/SpringStarter (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L02 - Add forgot password view/SpringStarter (7).iml" filepath="$PROJECT_DIR$/S08L02 - Add forgot password view/SpringStarter (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S04L10 - Add Roles to User Account/SpringStarter (8).iml" filepath="$PROJECT_DIR$/S04L10 - Add Roles to User Account/SpringStarter (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S08L06 - Email Service Spring Boot/SpringStarter (9).iml" filepath="$PROJECT_DIR$/S08L06 - Email Service Spring Boot/SpringStarter (9).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringStarter (29)" />
+        <module name="SpringStarter (17)" />
+        <module name="SpringStarter (49)" />
+        <module name="SpringStarter (37)" />
+        <module name="SpringStarter (25)" />
+        <module name="SpringStarter (13)" />
+        <module name="SpringStarter (7)" />
+        <module name="SpringStarter (45)" />
+        <module name="SpringStarter (33)" />
+        <module name="SpringStarter (32)" />
+        <module name="SpringStarter (20)" />
+        <module name="SpringStarter (52)" />
+        <module name="SpringStarter (2)" />
+        <module name="SpringStarter (40)" />
+        <module name="SpringStarter (18)" />
+        <module name="SpringStarter (38)" />
+        <module name="SpringStarter (26)" />
+        <module name="SpringStarter (14)" />
+        <module name="SpringStarter (46)" />
+        <module name="SpringStarter (34)" />
+        <module name="SpringStarter (6)" />
+        <module name="SpringStarter (22)" />
+        <module name="SpringStarter (1)" />
+        <module name="SpringStarter (21)" />
+        <module name="SpringStarter (53)" />
+        <module name="SpringStarter (41)" />
+        <module name="SpringStarter (9)" />
+        <module name="SpringStarter (39)" />
+        <module name="SpringStarter (27)" />
+        <module name="SpringStarter (15)" />
+        <module name="SpringStarter (5)" />
+        <module name="SpringStarter (47)" />
+        <module name="SpringStarter (35)" />
+        <module name="SpringStarter (23)" />
+        <module name="SpringStarter (11)" />
+        <module name="SpringStarter (19)" />
+        <module name="SpringStarter (10)" />
+        <module name="SpringStarter (54)" />
+        <module name="SpringStarter (42)" />
+        <module name="SpringStarter (30)" />
+        <module name="SpringStarter (50)" />
+        <module name="SpringStarter (8)" />
+        <module name="SpringStarter (28)" />
+        <module name="SpringStarter (16)" />
+        <module name="SpringStarter (48)" />
+        <module name="SpringStarter (36)" />
+        <module name="SpringStarter (4)" />
+        <module name="SpringStarter (24)" />
+        <module name="SpringStarter (12)" />
+        <module name="SpringStarter (44)" />
+        <module name="SpringStarter" />
+        <module name="SpringStarter (43)" />
+        <module name="SpringStarter (31)" />
+        <module name="SpringStarter (3)" />
+        <module name="SpringStarter (51)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringStarter" target="1.5" />
+      <module name="SpringStarter (1)" target="1.5" />
+      <module name="SpringStarter (10)" target="1.5" />
+      <module name="SpringStarter (11)" target="1.5" />
+      <module name="SpringStarter (12)" target="1.5" />
+      <module name="SpringStarter (13)" target="1.5" />
+      <module name="SpringStarter (14)" target="1.5" />
+      <module name="SpringStarter (15)" target="1.5" />
+      <module name="SpringStarter (16)" target="1.5" />
+      <module name="SpringStarter (17)" target="1.5" />
+      <module name="SpringStarter (18)" target="1.5" />
+      <module name="SpringStarter (19)" target="1.5" />
+      <module name="SpringStarter (2)" target="1.5" />
+      <module name="SpringStarter (20)" target="1.5" />
+      <module name="SpringStarter (21)" target="1.5" />
+      <module name="SpringStarter (22)" target="1.5" />
+      <module name="SpringStarter (23)" target="1.5" />
+      <module name="SpringStarter (24)" target="1.5" />
+      <module name="SpringStarter (25)" target="1.5" />
+      <module name="SpringStarter (26)" target="1.5" />
+      <module name="SpringStarter (27)" target="1.5" />
+      <module name="SpringStarter (28)" target="1.5" />
+      <module name="SpringStarter (29)" target="1.5" />
+      <module name="SpringStarter (3)" target="1.5" />
+      <module name="SpringStarter (30)" target="1.5" />
+      <module name="SpringStarter (31)" target="1.5" />
+      <module name="SpringStarter (32)" target="1.5" />
+      <module name="SpringStarter (33)" target="1.5" />
+      <module name="SpringStarter (34)" target="1.5" />
+      <module name="SpringStarter (35)" target="1.5" />
+      <module name="SpringStarter (36)" target="1.5" />
+      <module name="SpringStarter (37)" target="1.5" />
+      <module name="SpringStarter (38)" target="1.5" />
+      <module name="SpringStarter (39)" target="1.5" />
+      <module name="SpringStarter (4)" target="1.5" />
+      <module name="SpringStarter (40)" target="1.5" />
+      <module name="SpringStarter (41)" target="1.5" />
+      <module name="SpringStarter (42)" target="1.5" />
+      <module name="SpringStarter (43)" target="1.5" />
+      <module name="SpringStarter (44)" target="1.5" />
+      <module name="SpringStarter (45)" target="1.5" />
+      <module name="SpringStarter (46)" target="1.5" />
+      <module name="SpringStarter (47)" target="1.5" />
+      <module name="SpringStarter (48)" target="1.5" />
+      <module name="SpringStarter (49)" target="1.5" />
+      <module name="SpringStarter (5)" target="1.5" />
+      <module name="SpringStarter (50)" target="1.5" />
+      <module name="SpringStarter (51)" target="1.5" />
+      <module name="SpringStarter (52)" target="1.5" />
+      <module name="SpringStarter (53)" target="1.5" />
+      <module name="SpringStarter (54)" target="1.5" />
+      <module name="SpringStarter (6)" target="1.5" />
+      <module name="SpringStarter (7)" target="1.5" />
+      <module name="SpringStarter (8)" target="1.5" />
+      <module name="SpringStarter (9)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
